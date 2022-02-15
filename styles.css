@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(92,219,148);
+    text-align: center;
+    font-family: "Open Sans", Helvetica, sans-serif;
+}
+
+a {
+    color: #06396B;
+    text-decoration: solid;
+    font-weight: bolder;
+    font-size: larger;
+}
